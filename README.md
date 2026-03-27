@@ -17,8 +17,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipnyinomujuni-star&show_icons=true&theme=tokyonight)
+![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipyinomujuni-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+### 🛠️ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipnyinomujuni-star&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 📫 Connect with me:
