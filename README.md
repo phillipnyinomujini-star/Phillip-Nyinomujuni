@@ -1,5 +1,5 @@
 # Phillip-Nyinomujuni
-# Hi, I'm Philip (Pinz) 👋 
+## Hi, I'm Phillip (Pinz) 👋 
 
 > **"A Setter on the court, a Builder in the IDE."**
 
@@ -7,7 +7,7 @@
 - 🔭 I’m currently developing **Invisible Infrastructure** for the service industry in East Africa.
 - 🌱 I’m mastering the **MERN Stack** (React, Node.js) and **Python** during my strategic gap year.
 - ⚡ I specialize in **Business Automation**—turning manual workflows into digital systems.
-- 🏐 When I'm not coding, I'm setting plays on the volleyball court or analyzing **XAUUSD** charts.
+- 🏐 When I'm not coding, I'm setting plays on the volleyball court or analysing **XAUUSD** charts.
 
 ### 🛠️ Tech Stack & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
