@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillip256318&show_icons=true&theme=tokyonight)
+![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillipnyinomujuni-star&show_icons=true&theme=tokyonight)
 
 ---
 
