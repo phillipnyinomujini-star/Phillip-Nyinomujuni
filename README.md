@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats
-![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipnyinomujuni-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Phillip's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyinomujuni-phillip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyinomujuni-phillip-49b7333ba/)
